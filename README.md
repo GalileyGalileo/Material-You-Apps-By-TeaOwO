@@ -1,45 +1,3 @@
-# Archive!
-Since people seem to be starring this, this isn't originally my repo. This was a fork of a repo by `TeaEndsAcronyms`, and their account seems to have been deleted, along with seemingly everything else about them I can find. I'll keep this repo as a historic reference. Tea, if you would like this deleted, or have anything you want to ask, feel free to contact me via one of the methods on https://aagaming.me/contact
-
-<h1 align="center"> 
-	<strong>✨ Material You Apps ✨</strong> <br>
-<img src="https://img.shields.io/github/stars/TeaEndsAcronyms/Material-You-Apps?style=for-the-badge&colorA=ffc1cc&colorB=ffd1dc&logo=github&logoColor=ff6961"></br>
-</h1>
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/123305689/236643733-b6f47c67-4460-4396-862f-c170e46f7590.png" width="850">
-</p>
-
-(Made by Tea. ☕)
-### THANK YOU FOR ALL THE STARS! :) ✨
-
-# *Before You Start:*
-
-
-## ❓ About!
-- ###  This is a repo for apps with [google's "Material You" design language](https://m3.material.io/) 
-## ⚠️ Requirements!
-- ### **THIS IS NOT ALL** Material You apps... instead its the ones that are: 
-- #### Useful and work well! (only the very best!)
- - #### Have Material you (dynamic colouring, **_Required_**)
- - #### Have Material 3 design (_Design, **Not Required**_)
-(For  repos with all, or at least most MDY apps check out [These!](https://github.com/TeaEndsAcronyms/Material-You-Apps#-better-lists-lol))
----
-
-## 🔖 Tags!
-
-|🏷️ Tags! |🧾 Description!|
-|--|--|
-|`☕`|<strong>A **specialty tag**, the best apps in my opinion!</strong>  
-|`🧋`  | <strong>Open-Source!</strong> <sup><a href="https://en.wikipedia.org/wiki/Open_source">`Definition`</a></sup>|
-|`🍵`   |  <strong>Additional Steps Required!</strong>|
-|`🫖`|<strong>Paid Apps!</strong>
-|`🥤` |<strong>Modded app!</strong> <sup><a href="https://en.wikipedia.org/wiki/Modding#">`Definition`</a></sup>|
-
----
-
-## 🏠 Launchers 
-
 #### `☕` `🧋` [Lawnchair 12 (dev versions)](https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/)
 > Its like the Pixel launcher/stock android but with more customizations.
 
@@ -152,9 +110,6 @@ the light illuminated part is transparent and fade to solid (All features can me
 > A full-featured file manager with Material You colors
 
 #### [GFiles](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files)
-
-
-## 📕 Note
 
 #### `☕` `🧋` [Spooky](https://github.com/juniorise/spooky-mb)
 > A Open source MDY Notes app! 👻
